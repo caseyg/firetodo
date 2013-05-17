@@ -1,4 +1,3 @@
-
 var firebaseRef = new Firebase('https://officehours.firebaseio.com/');
 
 $(function() {
