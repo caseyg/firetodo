@@ -1,5 +1,5 @@
 
-var firebaseRef = new Firebase('https://firetodo.firebaseio.com/');
+var firebaseRef = new Firebase('https://officehours.firebaseio.com/');
 
 $(function() {
 
